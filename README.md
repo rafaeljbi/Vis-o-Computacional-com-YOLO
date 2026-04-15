@@ -22,5 +22,4 @@ Vídeos
 
 
 **3 - HANDS-ON 2 - Modelo Colab**\
-[Link_modelo_Class_colab2](https://colab.research.google.com/drive/1d605g1nTO1OnaSA5X8VfXbQVNqfrLllL?usp=drive_link)\
 [Link_modelo_Detect_colab2](https://colab.research.google.com/drive/19qoY77AJVFFxfrB1NhkE9M_0V7w5QGj1?usp=drive_link)

@@ -4,7 +4,7 @@ Deep learning na Prática - Visão Computacional com YOLO (OFICINA)
 Este Respositório contém o material para a Oficina Prática de Visão Computacional com YOLO.
 
 Diretório com víeos de exemplo:\
-Vídeos
+[Vídeos](https://github.com/rafaeljbi/Vis-o-Computacional-com-YOLO/tree/main/Videos)
 
 
 **1 - HANDS-ON 1 - Modelo Local**\

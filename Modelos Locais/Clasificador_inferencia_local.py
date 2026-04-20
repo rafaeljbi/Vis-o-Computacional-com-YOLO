@@ -1,3 +1,7 @@
+# IMPORTANTE: Instale a biblioteca ultralytics antes de rodar o código
+
+# Execute no terminal:
+# pip install ultralytics
 from ultralytics import YOLO
 
 # 1. Chamada do modelo pre-treinado

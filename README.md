@@ -10,7 +10,7 @@ Diretório com víeos de exemplo:\
 **1 - HANDS-ON 1 - Modelo Local**\
 [Link_modelo_Classificador](https://github.com/rafaeljbi/Vis-o-Computacional-com-YOLO/blob/main/Modelos%20Locais/Clasificador_inferencia_local.py) \
 [Link_modelo_Detector](https://github.com/rafaeljbi/Vis-o-Computacional-com-YOLO/blob/main/Modelos%20Locais/detector_inferencia_local.py)\
-[Link_modelo_Detector_WEBCAM](https://github.com/rafaeljbi/Vis-o-Computacional-com-YOLO/blob/main/Modelos%20Locais/WEBCAM_detector_inferencia_local.py)\
+[Link_modelo_Detector_WEBCAM](https://github.com/rafaeljbi/Vis-o-Computacional-com-YOLO/blob/main/Modelos%20Locais/WEBCAM_detector_inferencia_local.py)
 
 **1b - HANDS-ON 1 - Modelo Colab**\
 [Link_modelo_Class_colab](https://colab.research.google.com/drive/1Xpo-GN9E_IRbBxm0FMf6SxmQKtKSUCkb?usp=drive_link) \
